@@ -29,7 +29,7 @@ public class MapDataEntity {
         return MapDataEntity.builder()
                 .xCoordinate(dto.getWgs84_x())
                 .yCoordinate(dto.getWgs84_y())
-                .mapVersion("1.0.0")
+                .mapVersion("1.0.2")
                 .build();
     }
 }
