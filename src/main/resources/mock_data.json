@@ -2,51 +2,121 @@
   {
     "customLocationMarkerId": 1,
     "wgs84_x": 127.451386,
-    "wgs84_y": 36.631166
+    "wgs84_y": 36.631166,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 2,
     "wgs84_x": 127.452995,
-    "wgs84_y": 36.632604
+    "wgs84_y": 36.632604,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 3,
     "wgs84_x": 127.454529,
-    "wgs84_y": 36.630899
+    "wgs84_y": 36.630899,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 4,
     "wgs84_x": 127.456138,
-    "wgs84_y": 36.629987
+    "wgs84_y": 36.629987,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 5,
     "wgs84_x": 127.455806,
-    "wgs84_y": 36.628351
+    "wgs84_y": 36.628351,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 6,
     "wgs84_x": 127.457149,
-    "wgs84_y": 36.625925
+    "wgs84_y": 36.625925,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 7,
     "wgs84_x": 127.452365,
-    "wgs84_y": 36.628352
+    "wgs84_y": 36.628352,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 8,
     "wgs84_x": 127.452166,
-    "wgs84_y": 36.626559
+    "wgs84_y": 36.626559,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 9,
     "wgs84_x": 127.454579,
-    "wgs84_y": 36.627479
+    "wgs84_y": 36.627479,
+    "mapVersion": "1.0.2"
   },
   {
     "customLocationMarkerId": 10,
     "wgs84_x": 127.455423,
-    "wgs84_y": 36.626040
+    "wgs84_y": 36.626040,
+    "mapVersion": "1.0.2"
+  },
+  {
+    "customLocationMarkerId": 11,
+    "wgs84_x": 127.463724,
+    "wgs84_y": 36.624571,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 12,
+    "wgs84_x": 127.460988,
+    "wgs84_y": 36.621807,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 13,
+    "wgs84_x": 127.459250,
+    "wgs84_y": 36.623727,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 14,
+    "wgs84_x": 127.459744,
+    "wgs84_y": 36.624373,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 15,
+    "wgs84_x": 127.462415,
+    "wgs84_y": 36.624915,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 16,
+    "wgs84_x": 127.456600,
+    "wgs84_y": 36.625096,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 17,
+    "wgs84_x": 127.459089,
+    "wgs84_y": 36.622745,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 18,
+    "wgs84_x": 127.456965,
+    "wgs84_y": 36.623064,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 19,
+    "wgs84_x": 127.461278,
+    "wgs84_y": 36.624657,
+    "mapVersion": "1.0.3"
+  },
+  {
+    "customLocationMarkerId": 20,
+    "wgs84_x": 127.460677,
+    "wgs84_y": 36.623443,
+    "mapVersion": "1.0.3"
   }
 ]
